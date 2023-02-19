@@ -7,6 +7,7 @@
 .AppleDouble
 .LSOverride
 
+pubilc
 # OS X Thumbnails
 ._*
 
@@ -83,7 +84,6 @@ phpunit
 #-------------------------
 # Composer
 #-------------------------
-vendor/
 
 #-------------------------
 # IDE / Development Files
